@@ -1,0 +1,13 @@
+dependency: Junit 4.11
+create test class
+1- test Roman to numerals
+	-create roman_numeral first test method;
+	-create roman class;
+	-create romanToNumeral method; return String
+2- refactor:
+	-extract variables i, 1;
+	-extract assert method;
+Show test fails; update test assert method with String.valueOf
+Show test OK.
+3- delete variables i, 1 and add second assert test;	
+	
